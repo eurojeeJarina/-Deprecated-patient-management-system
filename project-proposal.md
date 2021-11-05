@@ -30,6 +30,7 @@
 
 ## UML DIAGRAM
 [Table of Contents](https://github.com/eurojeeJarina/patient-management-system/blob/main/project-proposal.md#table-of-contents)
+
 The projects classes and database creation will be based upon the UML diagram below. 
 
 ![UML DIAGRAM OF PROPOSE PROJECT](https://github.com/eurojeeJarina/patient-management-system/blob/main/uml-diagram.jpg)
