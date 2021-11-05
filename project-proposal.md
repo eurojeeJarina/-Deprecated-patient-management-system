@@ -58,4 +58,4 @@ Kotlin: 212-1.5.10-release-IJ5457.46
  - SQL CRUD (Create, Read, Update, Delete) 
  - JDBC MSSQL [Microsoft](https://docs.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver15#download) will use this to connect our application to the database
  - Microsoft SQL Server 2019 Express [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=101064)
- 
+ - JavaFX GUI - will use JavaFX to develop a user friendly interface.
