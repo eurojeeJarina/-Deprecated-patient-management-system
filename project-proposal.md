@@ -1,9 +1,9 @@
 # Patient Management System JavaFX
 ## Table of Contents
-1. [PROJECT DESCRIPTION](##project-description)
-2. FUNCTIONALITIES
-3. UML DIAGRAM
-4. TECHNOLOGIES & FRAMEWORKS
+1. [PROJECT DESCRIPTION](https://github.com/eurojeeJarina/patient-management-system/blob/main/project-proposal.md#project-description)
+2. [FUNCTIONALITIES](https://github.com/eurojeeJarina/patient-management-system/blob/main/project-proposal.md#functionalities)
+3. [UML DIAGRAM](https://github.com/eurojeeJarina/patient-management-system/blob/main/project-proposal.md#uml-diagram)
+4. [TECHNOLOGIES & FRAMEWORKS](https://github.com/eurojeeJarina/patient-management-system/blob/main/project-proposal.md#technologies)
 
 
 ## PROJECT DESCRIPTION
