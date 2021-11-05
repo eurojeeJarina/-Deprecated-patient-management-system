@@ -54,8 +54,8 @@ Kotlin: 212-1.5.10-release-IJ5457.46
 
 ### LANGUAGE, FRAMEWORKS & SQLSERVER
  - JAVA SDK 17 [Oracle](https://www.oracle.com/java/)
- - Maven Project Management Tools
- - SQL CRUD (Create, Read, Update, Delete)
- - JDBC MSSQL [Microsoft](https://docs.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver15#download)
+ - Maven Framework - For building and deploying the proposed project.
+ - SQL CRUD (Create, Read, Update, Delete) 
+ - JDBC MSSQL [Microsoft](https://docs.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver15#download) will use this to connect our application to the database
  - Microsoft SQL Server 2019 Express [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=101064)
  
