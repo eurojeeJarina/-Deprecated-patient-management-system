@@ -6,7 +6,7 @@
 4. [TECHNOLOGIES & FRAMEWORKS](https://github.com/eurojeeJarina/patient-management-system/blob/main/project-proposal.md#technologies)
 
 
-## PROJECT DESCRIPTION
+## SUMMARY
 
  - Aim of this project is to be able to help healthcare facilities with managing patients records. This eliminates the need for traditional method of writing and paper copies.
  - Why choose the project? Saves time, Save earth and Save money. More secure and efficient than traditional paper method.
@@ -22,6 +22,11 @@
  - [ ] The program should allow user to search for a specific patient on a database.
  - [ ] The program should be able to scale if required.
  - [ ] The program should be able to be updated regularly.
+ ### TEAM
+ - UI Designer (1)
+ - JAVA Backend Developer (1)
+ - SQL Database developer (1)
+ - JAVAFX Front End Developer (1)
 
 ## UML DIAGRAM
 [Table of Contents](https://github.com/eurojeeJarina/patient-management-system/blob/main/project-proposal.md#table-of-contents)
