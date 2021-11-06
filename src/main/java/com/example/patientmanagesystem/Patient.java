@@ -43,6 +43,17 @@ public class Patient extends Person{
         this.specialRequests = specialRequests;
     }
 
+    public Patient()
+    {
+        this.id += 1;
+        this.age = 99;
+        this.admissionDate = "10/10/2021";
+        this.sicknessHistory = "Default";
+        this.prescriptions = "Default";
+        this.allergies = "Default";
+        this.specialRequests = "Default";
+    }
+
     public int getId() {
         return id;
     }
@@ -105,6 +116,10 @@ public class Patient extends Person{
         this.displayDetails();
         System.out.println("ID: " + this.getId());
         System.out.println("Age: " + this.getAge());
-        System.out.println("");
+        System.out.println("Admission Date: " + this.getAdmissionDate());
+        System.out.println("History: " + this.getSicknessHistory());
+        System.out.println("Prescriptions: " + this.getPrescriptions());
+        System.out.println("Allergies: " + this.getAllergies());
+        System.out.println("Special Requests: " + this.getSpecialRequests());
     }
 }
