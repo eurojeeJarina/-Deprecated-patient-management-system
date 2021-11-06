@@ -22,7 +22,9 @@ public class HelloApplication extends Application {
         //launch();
 
         // TEST MODE HERE:
-        Patient newPatient = new Patient();
-        newPatient.displayPatientDetails();
+
+        // TEST PATIENT CLASS
+//        Patient newPatient = new Patient();
+//        newPatient.displayPatientDetails();
     }
 }
