@@ -43,6 +43,7 @@ public class Patient extends Person{
         this.specialRequests = specialRequests;
     }
 
+    // DEFAULT VALUES
     public Patient()
     {
         this.id += 1;
