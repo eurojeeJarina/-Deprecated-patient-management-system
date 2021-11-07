@@ -39,67 +39,67 @@ public class Person {
 
 
     /*GETTERS AND SETTERS BELOW*/
-    private String get_title() {
+    public String get_title() {
         return _title;
     }
 
-    private void set_title(String _title) {
+    public void set_title(String _title) {
         this._title = _title;
     }
 
-    private String get_firstName() {
+    public String get_firstName() {
         return _firstName;
     }
 
-    private void set_firstName(String _firstName) {
+    public void set_firstName(String _firstName) {
         this._firstName = _firstName;
     }
 
-    private String get_middleName() {
+    public String get_middleName() {
         return _middleName;
     }
 
-    private void set_middleName(String _middleName) {
+    public void set_middleName(String _middleName) {
         this._middleName = _middleName;
     }
 
-    private String get_surname() {
+    public String get_surname() {
         return _surname;
     }
 
-    private void set_surname(String _surname) {
+    public void set_surname(String _surname) {
         this._surname = _surname;
     }
 
-    private String get_birthDate() {
+    public String get_birthDate() {
         return _birthDate;
     }
 
-    private void set_birthDate(String _birthDate) {
+    public void set_birthDate(String _birthDate) {
         this._birthDate = _birthDate;
     }
 
-    private String get_gender() {
+    public String get_gender() {
         return _gender;
     }
 
-    private void set_gender(String _gender) {
+    public void set_gender(String _gender) {
         this._gender = _gender;
     }
 
-    private String get_homeAddress() {
+    public String get_homeAddress() {
         return _homeAddress;
     }
 
-    private void set_homeAddress(String _homeAddress) {
+    public void set_homeAddress(String _homeAddress) {
         this._homeAddress = _homeAddress;
     }
 
-    private int get_phoneNumber() {
+    public int get_phoneNumber() {
         return _phoneNumber;
     }
 
-    private void set_phoneNumber(int _phoneNumber) {
+    public void set_phoneNumber(int _phoneNumber) {
         this._phoneNumber = _phoneNumber;
     }
 

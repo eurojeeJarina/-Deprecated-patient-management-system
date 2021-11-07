@@ -39,4 +39,45 @@ public class Staff extends Person{
         this.staff_password = "default password";
         this.staff_admin = false;
     }
+
+    public int getStaffId() {
+        return staffId;
+    }
+
+    public void setStaffId(int staffId) {
+        this.staffId = staffId;
+    }
+
+    public String getStaff_username() {
+        return staff_username;
+    }
+
+    public void setStaff_username(String staff_username) {
+        this.staff_username = staff_username;
+    }
+
+    public String getStaff_password() {
+        return staff_password;
+    }
+
+    public void setStaff_password(String staff_password) {
+        this.staff_password = staff_password;
+    }
+
+    public boolean isStaff_admin() {
+        return staff_admin;
+    }
+
+    public void setStaff_admin(boolean staff_admin) {
+        this.staff_admin = staff_admin;
+    }
+
+    // DEBUGGING PURPOSE ONLY
+    public void displayStaffDetails(){
+        this.displayDetails();
+        System.out.println("ID: " + this.getStaffId());
+        System.out.println("Username: " + this.getStaff_username());
+        System.out.println("Password: " + this.getStaff_password());
+        System.out.println("IsAdmin: " + this.isStaff_admin());
+    }
 }

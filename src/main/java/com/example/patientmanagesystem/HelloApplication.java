@@ -26,5 +26,10 @@ public class HelloApplication extends Application {
         // TEST PATIENT CLASS
 //        Patient newPatient = new Patient();
 //        newPatient.displayPatientDetails();
+
+        //TEST STAFF CLASS
+        Staff newStaff = new Staff();
+        newStaff.displayStaffDetails();
+
     }
 }
