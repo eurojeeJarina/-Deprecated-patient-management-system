@@ -1,4 +1,4 @@
-package com.example.patientmanagesystem;
+package com.example.patientmanagementsystemversion02;
 
 
 /*Patient Class - Extends the person class with additional variables;

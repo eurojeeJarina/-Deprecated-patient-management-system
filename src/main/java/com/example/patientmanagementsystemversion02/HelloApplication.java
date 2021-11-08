@@ -1,4 +1,4 @@
-package com.example.patientmanagesystem;
+package com.example.patientmanagementsystemversion02;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -19,16 +19,16 @@ public class HelloApplication extends Application {
 
     public static void main(String[] args) {
 
-        launch();
+        //launch();
 
         // TEST MODE HERE:
 
         // TEST PATIENT CLASS
-//        Patient newPatient = new Patient();
-//        newPatient.displayPatientDetails();
+        Patient newPatient = new Patient();
+        newPatient.displayPatientDetails();
 
         //TEST STAFF CLASS
-      /*  Staff newStaff = new Staff();
+       /* Staff newStaff = new Staff();
         newStaff.displayStaffDetails();*/
 
     }

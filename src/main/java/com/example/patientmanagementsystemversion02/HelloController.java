@@ -1,4 +1,4 @@
-package com.example.patientmanagesystem;
+package com.example.patientmanagementsystemversion02;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

@@ -1,4 +1,4 @@
-package com.example.patientmanagesystem;
+package com.example.patientmanagementsystemversion02;
 
 /*Staff Class - represents the staff, the staff can either be given administrative access to modify patient's details
 *
