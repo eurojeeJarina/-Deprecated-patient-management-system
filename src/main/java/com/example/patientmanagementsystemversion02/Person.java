@@ -1,4 +1,4 @@
-package com.example.patientmanagesystem;
+package com.example.patientmanagementsystemversion02;
 
 /*Person Class - Super class consists of variables: title, firstname, middlename, surname, date of birth, home address, contact number*/
 
