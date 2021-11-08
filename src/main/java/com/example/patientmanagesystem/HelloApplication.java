@@ -19,7 +19,7 @@ public class HelloApplication extends Application {
 
     public static void main(String[] args) {
 
-        //launch();
+        launch();
 
         // TEST MODE HERE:
 
@@ -28,8 +28,8 @@ public class HelloApplication extends Application {
 //        newPatient.displayPatientDetails();
 
         //TEST STAFF CLASS
-        Staff newStaff = new Staff();
-        newStaff.displayStaffDetails();
+      /*  Staff newStaff = new Staff();
+        newStaff.displayStaffDetails();*/
 
     }
 }
